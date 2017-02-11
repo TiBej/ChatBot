@@ -10,6 +10,7 @@ namespace DiscordEssentials
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
