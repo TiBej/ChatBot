@@ -41,6 +41,7 @@ namespace ChatBot
 
             var commands = _DiscordClient.GetService<CommandService>();
 
+            // A list of all commands
             commands.CreateCommand("help")
                 .Do(async (e) =>
                 {
