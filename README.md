@@ -1,10 +1,9 @@
 # ChatBot
----
+
 ##### ★★★ Talk with a Discord Bot ★★★
 Do you always wanted a speaking Bot for Discord?! Here is your chance!
 
 ## Installation
----
 
 ##### Requirements
 - Visual Studio is required to run this Bot! 
@@ -32,10 +31,6 @@ Ex. ```await _DiscordClient.Connect("<Mjc1NzQ5NDEzMjgzMDM3MTg0.C4H9XQ.qSwr6YChxE
  https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
 
-#### Requirements
-
 ## Commands
----
 
 ## AIML
----
