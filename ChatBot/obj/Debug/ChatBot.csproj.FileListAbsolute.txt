@@ -6,3 +6,16 @@ C:\ChatBot\ChatBot\bin\Debug\AIMLbot.pdb
 C:\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
 C:\ChatBot\ChatBot\obj\Debug\ChatBot.exe
 C:\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\ChatBot\ChatBot\bin\Debug\Discord.Net.Commands.dll
+C:\ChatBot\ChatBot\bin\Debug\Discord.Net.dll
+C:\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.dll
+C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\ChatBot\ChatBot\bin\Debug\RestSharp.dll
+C:\ChatBot\ChatBot\bin\Debug\WebSocket4Net.dll
+C:\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.xml
+C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\ChatBot\ChatBot\bin\Debug\RestSharp.xml
