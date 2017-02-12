@@ -76,7 +76,7 @@ namespace ChatBot
             _DiscordClient.ExecuteAndWait(async () =>
             {
                 // Change Token
-                await _DiscordClient.Connect("MjgwMTA0NjMzNzIzMjU2ODM0.C4Ej7w.mZIhU7SKJqrWgfOo-quqdKIRj5c", TokenType.Bot);
+                await _DiscordClient.Connect("", TokenType.Bot);
             });
         }
 

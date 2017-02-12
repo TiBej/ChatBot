@@ -19,3 +19,6 @@ C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.xml
 C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
 C:\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 C:\ChatBot\ChatBot\bin\Debug\RestSharp.xml
+C:\Users\Tim\Documents\GitHub\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\Tim\Documents\GitHub\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\Tim\Documents\GitHub\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
