@@ -41,7 +41,7 @@ https://www.visualstudio.com/vs/visual-studio-express/
 ## AIML
 AIML doesn't get further developed anymore. This bot is made for fun don't be to harsh ;)
 
-> Special thanks go to Dr. Richard and S. Wallace for developing AIML.
+> Special thanks goes to Dr. Richard and S. Wallace for developing AIML.
 
 https://en.wikipedia.org/wiki/AIML
 
