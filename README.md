@@ -20,17 +20,25 @@ https://www.visualstudio.com/vs/visual-studio-express/
 
 2. Open ChatBot.sln with Visual Studio
 
-3. Find in DiscoBot.cs ```await _DiscordClient.Connect("<TOKEN>", TokenType.Bot); ```
-
-4. Replace <TOKEN> with your own Token
-Ex. ```await _DiscordClient.Connect("<Mjc1NzQ5NDEzMjgzMDM3MTg0.C4H9XQ.qSwr6YChxEP4rpKuOcjF1vcEkko", TokenType.Bot); ```
-
 5. Start the application
+
+6. Input Token
 
 6. Add the Bot to your Server
  https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
-
 ## Commands
+| Command | Output |
+| ------ | ------ |
+| +help | Display all possible commands |
+| +version | get the version of the running bot |
+| ++ <text> | Bot answers to the writting input |
+| +speak <bool> | coming soon |
+| +activate <bool> | coming soon |
 
 ## AIML
+AIML doesn't get further developed anymore. This bot is made for fun don't be to harsh ;)
+
+> Special thanks go to Dr. Richard and S. Wallace for developing AIML.
+
+https://en.wikipedia.org/wiki/AIML
