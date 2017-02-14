@@ -11,8 +11,12 @@ namespace ChatBot
     {
         static void Main(string[] args)
         {
+            // Get Token
+            System.Console.WriteLine("TOKEN: ");
+            string Token = Convert.ToString(System.Console.ReadLine());
+
             // Create Bot
-            DiscoBot TestBot = new DiscoBot();
+            DiscoBot TestBot = new DiscoBot(Token);
         }
     }
 }

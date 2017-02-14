@@ -13,7 +13,7 @@ namespace ChatBot
     {
         DiscordClient _DiscordClient;
 
-        public DiscoBot()
+        public DiscoBot(string TOKEN)
         {
             // Setup AIML
             Bot AI = new Bot();
@@ -77,7 +77,7 @@ namespace ChatBot
             _DiscordClient.ExecuteAndWait(async () =>
             {
                 // Change Token
-                await _DiscordClient.Connect("", TokenType.Bot);
+                await _DiscordClient.Connect(TOKEN, TokenType.Bot);
             });
         }
 
