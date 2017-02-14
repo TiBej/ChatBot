@@ -3,6 +3,8 @@
 ##### ★★★ Talk with a Discord Bot ★★★
 Do you always wanted a speaking Bot for Discord?! Here is your chance!
 
+![alt tag](https://cloud.githubusercontent.com/assets/25526512/22892820/1f512ed6-f214-11e6-984a-3544a5cf30b9.PNG)
+
 ## Installation
 
 ##### Requirements
@@ -42,3 +44,4 @@ AIML doesn't get further developed anymore. This bot is made for fun don't be to
 > Special thanks go to Dr. Richard and S. Wallace for developing AIML.
 
 https://en.wikipedia.org/wiki/AIML
+
