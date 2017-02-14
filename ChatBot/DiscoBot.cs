@@ -70,14 +70,14 @@ namespace ChatBot
             commands.CreateCommand("version")
              .Do(async (e) =>
              {
-                    // Send Version
+                    // Send version
                     await e.Channel.SendMessage("Chatter v1.0");
             });
 
+            // Build connection
             _DiscordClient.ExecuteAndWait(async () =>
             {
-                // Change Token
-                await _DiscordClient.Connect(TOKEN, TokenType.Bot);
+                    await _DiscordClient.Connect(TOKEN, TokenType.Bot);
             });
         }
 

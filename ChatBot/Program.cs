@@ -11,12 +11,30 @@ namespace ChatBot
     {
         static void Main(string[] args)
         {
-            // Get Token
-            System.Console.WriteLine("TOKEN: ");
-            string Token = Convert.ToString(System.Console.ReadLine());
+            // True if Token isn't valid
+            bool valid = true;
 
-            // Create Bot
-            DiscoBot TestBot = new DiscoBot(Token);
+            do
+            {
+                // Get Token
+                System.Console.WriteLine("TOKEN: ");
+                string Token = Convert.ToString(System.Console.ReadLine());
+
+                try
+                {
+                    // Create Bot
+                    DiscoBot TestBot = new DiscoBot(Token);
+                    valid = false;
+                }
+                catch
+                {
+                    System.Console.WriteLine("Invalid Token please try again");
+                    System.Console.ReadKey();
+                    System.Console.Clear();
+                    valid = true; // repeat
+                }
+
+            } while (valid);
         }
     }
 }
