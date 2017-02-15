@@ -12,12 +12,12 @@
   <item name="maxlogbuffersize" value="64"/>
   <item name="notacceptinguserinputmessage" value="This bot is currently set to not accept user input."/>
   <item name="stripperregex" value="[^0-9a-zA-Z]"/>
-  <item name="version" value="Unknown"/>
-  <item name="name" value="Unknown"/>
-  <item name="botmaster" value="Unknown"/>
-  <item name="master" value="Unknown"/>
-  <item name="author" value="Nicholas H.Tollervey"/>
-  <item name="location" value="Unknown"/>
+  <item name="version" value="Unkown"/>
+  <item name="name" value="John"/>
+  <item name="botmaster" value="Timmy"/>
+  <item name="master" value="Timmy"/>
+  <item name="author" value="Timmy"/>
+  <item name="location" value="on the moon"/>
   <item name="gender" value="-1"/>
   <item name="birthday" value="2006/10/08"/>
   <item name="birthplace" value="Towcester, Northamptonshire, UK"/>

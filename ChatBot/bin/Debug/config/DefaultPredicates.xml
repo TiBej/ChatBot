@@ -5,10 +5,10 @@
   <item name="she" value="somebody" />
   <item name="it" value="something" />
   <item name="they" value="something" />
-  <item name="age" value="unknown" />
-  <item name="birthday" value="unknown" />
-  <item name="boyfriend" value="unknown" />
-  <item name="brother" value="unknown" />
+  <item name="age" value="1" />
+  <item name="birthday" value="2016" />
+  <item name="boyfriend" value="sally" />
+  <item name="brother" value="none" />
   <item name="cat" value="unknown" />
   <item name="does" value="unknown" />
   <item name="dog" value="unknown" />
