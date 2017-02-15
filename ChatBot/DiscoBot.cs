@@ -11,7 +11,9 @@ namespace ChatBot
 {
     class DiscoBot
     {
-        DiscordClient _DiscordClient;
+        private DiscordClient _DiscordClient;
+        private bool _IsActive = true;
+
 
         public DiscoBot(string TOKEN)
         {
@@ -54,25 +56,46 @@ namespace ChatBot
                 .Parameter("words", ParameterType.Unparsed)
                 .Do(async (e) =>
                 {
-                    // Get text
-                    string s = e.GetArg("words");
+                    // do if enabled          
+                    if(_IsActive == true)
+                    {
+                        // Get text
+                        string s = e.GetArg("words");
 
-                    // Send request
-                    Request r = new Request(s, myUser, AI);
+                        // Send request
+                        Request r = new Request(s, myUser, AI);
 
-                    // Save answer
-                    Result res = AI.Chat(r);
+                        // Save answer
+                        Result res = AI.Chat(r);
 
-                    // Output answer
-                    await e.Channel.SendMessage(res.Output);
+                        // Output answer
+                        await e.Channel.SendMessage(res.Output);
+                    }
                 });
 
             commands.CreateCommand("version")
-             .Do(async (e) =>
-             {
+                .Do(async (e) =>
+                {
                     // Send version
                     await e.Channel.SendMessage("Chatter v1.0");
-            });
+                });
+
+            commands.CreateCommand("IsActive")
+                .Parameter("input", ParameterType.Unparsed)
+                .AddCheck((cm, u, ch) => u.ServerPermissions.Administrator)
+                .Do(async (e) =>
+                {
+                    // Input
+                    try
+                    {
+                        // get set value
+                        _IsActive = Convert.ToBoolean(e.GetArg("input"));
+                    }
+                    catch
+                    {
+                        await e.Channel.SendMessage("Invalid input!");
+                    }
+                });
 
             // Build connection
             _DiscordClient.ExecuteAndWait(async () =>
