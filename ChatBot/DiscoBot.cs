@@ -50,6 +50,7 @@ namespace ChatBot
                     await e.Channel.SendMessage("Get help with +help <text>");
                     await e.Channel.SendMessage("Send a message with ++ <text>");
                     await e.Channel.SendMessage("Check Version with +version <text>");
+                    await e.Channel.SendMessage("Change the bot state with +IsActive <true|false>");
                 });
 
             commands.CreateCommand("+")
