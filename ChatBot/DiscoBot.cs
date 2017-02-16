@@ -90,6 +90,9 @@ namespace ChatBot
                     {
                         // get set value
                         _IsActive = Convert.ToBoolean(e.GetArg("input"));
+
+                        // confirm user
+                        await e.Channel.SendMessage((_IsActive == true) ? "activated" : "deactivated");
                     }
                     catch
                     {
