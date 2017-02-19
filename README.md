@@ -31,7 +31,7 @@ Do you always wanted a speaking Bot for Discord?! Here is your chance!
 | +help | Display all possible commands |
 | +version | get the version of the running bot |
 | ++ <text> | Bot answers to the writting input |
-| +activate <bool> | Set Bot response as true or false, only admins got permission to do that |
+| +IsActive <bool> | Set Bot response as true or false, only admins got permission to do that |
 | +speak <bool> | coming soon |
 
 ## AIML
