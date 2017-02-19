@@ -78,7 +78,7 @@ namespace ChatBot
                 .Do(async (e) =>
                 {
                     // Send version
-                    await e.Channel.SendMessage("Chatter v1.0");
+                    await e.Channel.SendMessage("Chatter v1.1");
                 });
 
             commands.CreateCommand("IsActive")
