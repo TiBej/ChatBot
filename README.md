@@ -8,8 +8,6 @@ Do you always wanted a speaking Bot for Discord?! Here is your chance!
 ## Installation
 
 ##### Requirements
-- Visual Studio is required to run this Bot! 
-https://www.visualstudio.com/vs/visual-studio-express/
 
 - Discord Account
  https://discordapp.com/
@@ -18,9 +16,7 @@ https://www.visualstudio.com/vs/visual-studio-express/
  https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
 ##### Configuration & Use
-1. Download  the code from above
-
-2. Open ChatBot.sln with Visual Studio
+1. Download a release
 
 5. Start the application
 
@@ -35,8 +31,8 @@ https://www.visualstudio.com/vs/visual-studio-express/
 | +help | Display all possible commands |
 | +version | get the version of the running bot |
 | ++ <text> | Bot answers to the writting input |
+| +activate <bool> | Set Bot response as true or false, only admins got permission to do that |
 | +speak <bool> | coming soon |
-| +activate <bool> | coming soon |
 
 ## AIML
 AIML doesn't get further developed anymore. This bot is made for fun don't be to harsh ;)
