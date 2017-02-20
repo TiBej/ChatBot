@@ -13,6 +13,7 @@ namespace ChatBot
     {
         private DiscordClient _DiscordClient;
         private bool _IsActive = true;
+        private bool _IsSpeaking = false;
 
 
         public DiscoBot(string TOKEN)
@@ -51,6 +52,7 @@ namespace ChatBot
                     await e.Channel.SendMessage("Send a message with ++ <text>");
                     await e.Channel.SendMessage("Check Version with +version <text>");
                     await e.Channel.SendMessage("Change the bot state with +IsActive <true|false>");
+                    await e.Channel.SendMessage("The bot speaks if true with TLS <true|false>");
                 });
 
             commands.CreateCommand("+")
@@ -69,8 +71,16 @@ namespace ChatBot
                         // Save answer
                         Result res = AI.Chat(r);
 
-                        // Output answer
-                        await e.Channel.SendMessage(res.Output);
+                        if(_IsSpeaking == true)
+                        {
+                            // Use TLS to say message
+                            await e.Channel.SendTTSMessage(res.Output);
+                        }
+                        else
+                        {
+                            // Output answer
+                            await e.Channel.SendMessage(res.Output);
+                        }
                     }
                 });
 
@@ -100,6 +110,26 @@ namespace ChatBot
                         await e.Channel.SendMessage("Invalid input!");
                     }
                 });
+
+            commands.CreateCommand("IsSpeaking")
+                .Parameter("input", ParameterType.Unparsed)
+                .AddCheck((cm, u, ch) => u.ServerPermissions.Administrator)
+                .Do(async (e) =>
+                {
+                    // Input
+                    try
+                {
+                        // get set value
+                        _IsSpeaking = Convert.ToBoolean(e.GetArg("input"));
+
+                        // confirm user
+                        await e.Channel.SendMessage((_IsSpeaking == true) ? "activated" : "deactivated");
+                }
+                catch
+                {
+                    await e.Channel.SendMessage("Invalid input!");
+                }
+    });
 
             // Build connection
             _DiscordClient.ExecuteAndWait(async () =>
