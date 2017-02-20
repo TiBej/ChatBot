@@ -32,7 +32,7 @@ Do you always wanted a speaking Bot for Discord?! Here is your chance!
 | +version | get the version of the running bot |
 | ++ <text> | Bot answers to the writting input |
 | +IsActive <bool> | Set Bot response as true or false, only admins got permission to do that |
-| +speak <bool> | coming soon |
+| +IsSpeaking <bool> | The bot speaks if true with TLS |
 
 ## AIML
 AIML doesn't get further developed anymore. This bot is made for fun don't be to harsh ;)
