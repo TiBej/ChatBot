@@ -129,7 +129,7 @@ namespace ChatBot
                 {
                     await e.Channel.SendMessage("Invalid input!");
                 }
-    });
+            });
 
             // Build connection
             _DiscordClient.ExecuteAndWait(async () =>

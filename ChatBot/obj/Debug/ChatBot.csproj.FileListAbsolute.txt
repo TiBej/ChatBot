@@ -52,10 +52,10 @@ C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.dll
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\RestSharp.dll
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\WebSocket4Net.dll
-C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\AIMLbot.pdb
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.xml
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\RestSharp.xml
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Debug\AIMLbot.dll

@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AIMLbot">
-      <HintPath>..\..\Users\Tim\Downloads\ConsoleBot2.5\ConsoleBot\ConsoleBot\bin\Debug\AIMLbot.dll</HintPath>
+    <Reference Include="AIMLbot, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\AIMLbot.dll</HintPath>
     </Reference>
     <Reference Include="Discord.Net, Version=0.9.6.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Discord.Net.0.9.6\lib\net45\Discord.Net.dll</HintPath>
@@ -83,14 +84,53 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="aiml\AI.aiml" />
+    <None Include="aiml\Atomic.aiml" />
+    <None Include="aiml\Biography.aiml" />
+    <None Include="aiml\Bot.aiml" />
+    <None Include="aiml\Botmaster.aiml" />
+    <None Include="aiml\Client.aiml" />
+    <None Include="aiml\Computers.aiml" />
+    <None Include="aiml\CustomTagTest.aiml" />
+    <None Include="aiml\Default.aiml" />
+    <None Include="aiml\Emotion.aiml" />
+    <None Include="aiml\Food.aiml" />
+    <None Include="aiml\Geography.aiml" />
+    <None Include="aiml\History.aiml" />
+    <None Include="aiml\Inquiry.aiml" />
+    <None Include="aiml\Interjection.aiml" />
+    <None Include="aiml\IU.aiml" />
+    <None Include="aiml\Knowledge.aiml" />
+    <None Include="aiml\Literature.aiml" />
+    <None Include="aiml\Money.aiml" />
+    <None Include="aiml\Movies.aiml" />
+    <None Include="aiml\Music.aiml" />
+    <None Include="aiml\Personality.aiml" />
+    <None Include="aiml\Philosophy.aiml" />
+    <None Include="aiml\Pickup.aiml" />
+    <None Include="aiml\Predicates.aiml" />
+    <None Include="aiml\Reduce.aiml" />
+    <None Include="aiml\Reductions.aiml" />
+    <None Include="aiml\Salutations.aiml" />
+    <None Include="aiml\Science.aiml" />
+    <None Include="aiml\Stack.aiml" />
+    <None Include="aiml\Stories.aiml" />
+    <None Include="aiml\That.aiml" />
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="aiml\" />
-    <Folder Include="config\" />
+    <Content Include="config\DefaultPredicates.xml" />
+    <Content Include="config\GenderSubstitutions.xml" />
+    <Content Include="config\Person2Substitutions.xml" />
+    <Content Include="config\PersonSubstitutions.xml" />
+    <Content Include="config\Settings.xml" />
+    <Content Include="config\Splitters.xml" />
+    <Content Include="config\Substitutions.xml" />
+    <Content Include="lib\AIMLbot.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
