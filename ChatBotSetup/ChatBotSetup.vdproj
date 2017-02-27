@@ -3331,6 +3331,17 @@
             "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_DF703060AB6B4049B7E14F3B723125EE"
+                    {
+                    "Name" = "8:ChatBot"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_73CDB5354CBA4BA5A488C8A929453DFB"
+                        "Folders"
+                        {
+                        }
+                    }
                 }
             }
         }
@@ -3358,12 +3369,12 @@
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:Default Company Name"
+        "Manufacturer" = "8:Wohoo!"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
         "Title" = "8:ChatBotSetup"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Default Company Name"
+        "ARPCONTACT" = "8:Timmy"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
@@ -3480,6 +3491,20 @@
             "Transitive" = "11:FALSE"
             "Target" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
             "Folder" = "8:_11EB18B76CA6454FBBCA2E0B2CB9B770"
+            "WorkingFolder" = "8:_1A8AE86AD02E43BEB2FB130F52EFB61A"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_70BAA11230994AC3B3574D01CD856924"
+            {
+            "Name" = "8:ChatBot (Active)"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+            "Folder" = "8:_DF703060AB6B4049B7E14F3B723125EE"
             "WorkingFolder" = "8:_1A8AE86AD02E43BEB2FB130F52EFB61A"
             "Icon" = "8:"
             "Feature" = "8:"
