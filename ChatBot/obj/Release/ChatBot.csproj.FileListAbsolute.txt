@@ -1,5 +1,4 @@
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Release\ChatBot.exe.config
-C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\obj\Release\ChatBot.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Release\ChatBot.exe
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Release\ChatBot.pdb
 C:\Users\Admin\Documents\GitHub\ChatBot\ChatBot\bin\Release\AIMLbot.dll
