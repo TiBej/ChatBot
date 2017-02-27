@@ -15,8 +15,20 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_00930D1D1A324171B0BFD4713594596A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_03847991EB25C0CB856D922D02416990"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_03D92BBEBA46437FBA431908A2727F3D"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -57,6 +69,18 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_143C7BBC29FA4AE2917836FB9951184F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_14448728806841C4B1779E39DAC27BD3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_166A3907F648C4509BDE58ED09CF2CE6"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
         "MsmSig" = "8:_UNDEFINED"
@@ -87,6 +111,18 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_1FE383690D754075B8BD899623AC29ED"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_208115E3F48644128E09BD62805D0C76"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_21233D8087AF695C07D4E436ACE4CE79"
         "OwnerKey" = "8:_E6790395F2C455D8E7712F87A7F1AA59"
         "MsmSig" = "8:_UNDEFINED"
@@ -111,8 +147,26 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_26B8A352BA7E46908AF8B104A95253BF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_2A16C5CECB2679ADC44033B1A36BC22E"
         "OwnerKey" = "8:_E6790395F2C455D8E7712F87A7F1AA59"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2F6C834FF7224316B34F8BCEE2439BB4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FB1F2D283E14FE1851D4D81292957CD"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -123,8 +177,26 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_33CDB00A18A443E8A830DA8C6A872E47"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_36625CE2784161F7CB514296DD5FACEC"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_36C128C1455540D99C655C33622AB32B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_379DE5FDCC974B1CBF1379CEBAFD4326"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -137,6 +209,12 @@
         {
         "MsmKey" = "8:_3AA90126624DB47E258E19D7A5C75A94"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3AC6968A044943A9A7C02F8A9DE41444"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -159,6 +237,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_42E32DCD4AA24EBF882AD1A20E294D78"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_475DB1822EDC0582B268F84BB907AE91"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
         "MsmSig" = "8:_UNDEFINED"
@@ -173,6 +257,12 @@
         {
         "MsmKey" = "8:_48BB306ED261D35CA53CF2A6473EB1B0"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4A5BA7631C1B40BBB361F560F8BA0A5C"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -201,8 +291,26 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_4F18BACA95BE4E979C8B94FF37EE1909"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4FFF3AAE89B2411E82D8488D33A9BF7E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_513DD9F4A3EB5E7E57E7E7DA1CD798D9"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_51CC50B57E274F008E828B1A6E856B8C"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -243,6 +351,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_6460CBD3C3594C3A9581FB571183C0A7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_6D2788639E5EA559BB8C9FC57577984A"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
         "MsmSig" = "8:_UNDEFINED"
@@ -263,6 +377,12 @@
         {
         "MsmKey" = "8:_74C53B0F62EEA6ACD6E8918B26649A93"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_761EDED30D3548DFA2D3758C2566C313"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -345,6 +465,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_9017ED8373314B35B07387FA7B0A5E9C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_90863D37566290ABEC5219CA14F2D27D"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
         "MsmSig" = "8:_UNDEFINED"
@@ -369,6 +495,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_94E42C971CF047CB85CA5F09F452FDB7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_9735C86E505F41959AD52F71294B7C9D"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
         "MsmSig" = "8:_UNDEFINED"
@@ -383,6 +515,12 @@
         {
         "MsmKey" = "8:_A21378C19AA9C3A41E1DE80E31D5F80E"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A2668B360D804D778DCED4D3AB982661"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -411,6 +549,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_AE48DF1B5C934694B0DD78D1C50ED160"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_AEA6AD821326C877D7805EEB3BCE16C3"
         "OwnerKey" = "8:_E6790395F2C455D8E7712F87A7F1AA59"
         "MsmSig" = "8:_UNDEFINED"
@@ -423,8 +567,56 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_AF50DC55C1C94B31AE3B394AF5DD92C8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B2F4A6A25E1A4E17896EB028A70B9A4D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B34EFCCF8DCF47809C416B15476C8E40"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_BA908899091BDA4D7D4B8C7908399BD7"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BDE2C770FDB84FF2B8F9DFAE57471898"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BE52C81807B143CF82C1723873DAAD7F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C3A6DB0C7C8845ED95BA80812096A3B2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C403464A73A24E57934603347D018FA4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C447C887E60B4C399C8D7864BADA1536"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -441,8 +633,20 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_C9636B239BFD448389D329486C7EC69F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_CC86B5BE0C2ED70E46E275DEF344F478"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CF3273C916084C039D02E8D78FEEB5E5"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -453,8 +657,20 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_D2C4338803474FBEB8CF1E2779103827"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_D6B236C00104C541BA35AB0B6B70595B"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D8FAD46F70234D7ABE0A708B856678C2"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -473,6 +689,12 @@
         {
         "MsmKey" = "8:_DF311C31BC81254993FE1F6476D4C57E"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DFA8C8B17BAA4734AD502C0358C96C24"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -501,8 +723,20 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_EB4DBF72C19D4F36B3589410A55BCC64"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_EF5B41B48879843ACCAD4A9ED7F779BB"
         "OwnerKey" = "8:_E2A1DAB2CEA144AC83A5AA58B35D56A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F4C8558C8E884221B92392F493F571CA"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -533,12 +767,6 @@
         {
         "MsmKey" = "8:_FF44E1F61BFE6791DD050DE8467D264D"
         "OwnerKey" = "8:_E6790395F2C455D8E7712F87A7F1AA59"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C7285E0EC1F4D09F92B6D37313EB9FF3"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -967,6 +1195,12 @@
         "OwnerKey" = "8:_9735C86E505F41959AD52F71294B7C9D"
         "MsmSig" = "8:_UNDEFINED"
         }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_C7285E0EC1F4D09F92B6D37313EB9FF3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
     }
     "Configurations"
     {
@@ -985,6 +1219,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -1001,6 +1243,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
+            }
         }
     }
     "Deployable"
@@ -1030,6 +1288,26 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_00930D1D1A324171B0BFD4713594596A"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Client.aiml"
+            "TargetName" = "8:Client.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_03847991EB25C0CB856D922D02416990"
             {
             "AssemblyRegister" = "3:1"
@@ -1059,6 +1337,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_03D92BBEBA46437FBA431908A2727F3D"
+            {
+            "SourcePath" = "8:..\\ChatBot\\config\\PersonSubstitutions.xml"
+            "TargetName" = "8:PersonSubstitutions.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_2571E63883804420AC233DDDC60A7BFC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_079C3D82A943DEF5CD983831A707AF74"
@@ -1216,6 +1514,46 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_143C7BBC29FA4AE2917836FB9951184F"
+            {
+            "SourcePath" = "8:..\\ChatBot\\config\\Substitutions.xml"
+            "TargetName" = "8:Substitutions.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_2571E63883804420AC233DDDC60A7BFC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_14448728806841C4B1779E39DAC27BD3"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Reduce.aiml"
+            "TargetName" = "8:Reduce.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_166A3907F648C4509BDE58ED09CF2CE6"
             {
             "AssemblyRegister" = "3:1"
@@ -1340,6 +1678,46 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1FE383690D754075B8BD899623AC29ED"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Stories.aiml"
+            "TargetName" = "8:Stories.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_208115E3F48644128E09BD62805D0C76"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Pickup.aiml"
+            "TargetName" = "8:Pickup.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_21233D8087AF695C07D4E436ACE4CE79"
             {
             "AssemblyRegister" = "3:1"
@@ -1433,6 +1811,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_26B8A352BA7E46908AF8B104A95253BF"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Interjection.aiml"
+            "TargetName" = "8:Interjection.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2A16C5CECB2679ADC44033B1A36BC22E"
             {
             "AssemblyRegister" = "3:1"
@@ -1462,6 +1860,46 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2F6C834FF7224316B34F8BCEE2439BB4"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Philosophy.aiml"
+            "TargetName" = "8:Philosophy.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2FB1F2D283E14FE1851D4D81292957CD"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Inquiry.aiml"
+            "TargetName" = "8:Inquiry.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_30E6282A9ACD2F8FC632AA92BDD49A6E"
@@ -1495,6 +1933,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_33CDB00A18A443E8A830DA8C6A872E47"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Biography.aiml"
+            "TargetName" = "8:Biography.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_36625CE2784161F7CB514296DD5FACEC"
             {
             "AssemblyRegister" = "3:1"
@@ -1524,6 +1982,46 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_36C128C1455540D99C655C33622AB32B"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Personality.aiml"
+            "TargetName" = "8:Personality.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_379DE5FDCC974B1CBF1379CEBAFD4326"
+            {
+            "SourcePath" = "8:..\\ChatBot\\config\\Person2Substitutions.xml"
+            "TargetName" = "8:Person2Substitutions.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_2571E63883804420AC233DDDC60A7BFC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_38C3A2AC75CB66BB0034F7730A1F7BFB"
@@ -1586,6 +2084,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3AC6968A044943A9A7C02F8A9DE41444"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Bot.aiml"
+            "TargetName" = "8:Bot.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3DB1DFB0E15621C6E1C48C040FB96D5C"
@@ -1681,6 +2199,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_42E32DCD4AA24EBF882AD1A20E294D78"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Money.aiml"
+            "TargetName" = "8:Money.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_475DB1822EDC0582B268F84BB907AE91"
             {
             "AssemblyRegister" = "3:1"
@@ -1741,6 +2279,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4A5BA7631C1B40BBB361F560F8BA0A5C"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Computers.aiml"
+            "TargetName" = "8:Computers.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4AEC7BC4199EE6CABA996C0202ACC59A"
@@ -1836,6 +2394,46 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4F18BACA95BE4E979C8B94FF37EE1909"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Movies.aiml"
+            "TargetName" = "8:Movies.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4FFF3AAE89B2411E82D8488D33A9BF7E"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Emotion.aiml"
+            "TargetName" = "8:Emotion.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_513DD9F4A3EB5E7E57E7E7DA1CD798D9"
             {
             "AssemblyRegister" = "3:1"
@@ -1865,6 +2463,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_51CC50B57E274F008E828B1A6E856B8C"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\AI.aiml"
+            "TargetName" = "8:AI.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5262AB1CC26FBCB076552A6D52FCF142"
@@ -2053,6 +2671,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6460CBD3C3594C3A9581FB571183C0A7"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\That.aiml"
+            "TargetName" = "8:That.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6D2788639E5EA559BB8C9FC57577984A"
             {
             "AssemblyRegister" = "3:1"
@@ -2175,6 +2813,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_761EDED30D3548DFA2D3758C2566C313"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Food.aiml"
+            "TargetName" = "8:Food.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_78D40C96962FE9F9826F0C4294C70726"
@@ -2518,6 +3176,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9017ED8373314B35B07387FA7B0A5E9C"
+            {
+            "SourcePath" = "8:..\\ChatBot\\config\\GenderSubstitutions.xml"
+            "TargetName" = "8:GenderSubstitutions.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_2571E63883804420AC233DDDC60A7BFC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_90863D37566290ABEC5219CA14F2D27D"
             {
             "AssemblyRegister" = "3:1"
@@ -2611,6 +3289,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_94E42C971CF047CB85CA5F09F452FDB7"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\CustomTagTest.aiml"
+            "TargetName" = "8:CustomTagTest.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9735C86E505F41959AD52F71294B7C9D"
             {
             "AssemblyRegister" = "3:1"
@@ -2702,6 +3400,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A2668B360D804D778DCED4D3AB982661"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Botmaster.aiml"
+            "TargetName" = "8:Botmaster.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A51F2D531E7B8C121AFEE0EE450BD571"
@@ -2828,6 +3546,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AE48DF1B5C934694B0DD78D1C50ED160"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Stack.aiml"
+            "TargetName" = "8:Stack.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AEA6AD821326C877D7805EEB3BCE16C3"
             {
             "AssemblyRegister" = "3:1"
@@ -2859,6 +3597,66 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AF50DC55C1C94B31AE3B394AF5DD92C8"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Geography.aiml"
+            "TargetName" = "8:Geography.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B2F4A6A25E1A4E17896EB028A70B9A4D"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Default.aiml"
+            "TargetName" = "8:Default.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B34EFCCF8DCF47809C416B15476C8E40"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Music.aiml"
+            "TargetName" = "8:Music.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BA908899091BDA4D7D4B8C7908399BD7"
             {
             "AssemblyRegister" = "3:1"
@@ -2888,6 +3686,106 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BDE2C770FDB84FF2B8F9DFAE57471898"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Literature.aiml"
+            "TargetName" = "8:Literature.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BE52C81807B143CF82C1723873DAAD7F"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\History.aiml"
+            "TargetName" = "8:History.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C3A6DB0C7C8845ED95BA80812096A3B2"
+            {
+            "SourcePath" = "8:..\\ChatBot\\config\\Settings.xml"
+            "TargetName" = "8:Settings.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_2571E63883804420AC233DDDC60A7BFC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C403464A73A24E57934603347D018FA4"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Atomic.aiml"
+            "TargetName" = "8:Atomic.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C447C887E60B4C399C8D7864BADA1536"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Science.aiml"
+            "TargetName" = "8:Science.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C6ADD6CF08984A4423FCA78F08DAA1E0"
@@ -2952,6 +3850,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C9636B239BFD448389D329486C7EC69F"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\IU.aiml"
+            "TargetName" = "8:IU.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CC86B5BE0C2ED70E46E275DEF344F478"
             {
             "AssemblyRegister" = "3:1"
@@ -2981,6 +3899,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CF3273C916084C039D02E8D78FEEB5E5"
+            {
+            "SourcePath" = "8:..\\ChatBot\\config\\DefaultPredicates.xml"
+            "TargetName" = "8:DefaultPredicates.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_2571E63883804420AC233DDDC60A7BFC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D25D2175969994C6EA6680C0E3E8A478"
@@ -3014,6 +3952,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D2C4338803474FBEB8CF1E2779103827"
+            {
+            "SourcePath" = "8:..\\ChatBot\\config\\Splitters.xml"
+            "TargetName" = "8:Splitters.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_2571E63883804420AC233DDDC60A7BFC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D6B236C00104C541BA35AB0B6B70595B"
             {
             "AssemblyRegister" = "3:1"
@@ -3043,6 +4001,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D8FAD46F70234D7ABE0A708B856678C2"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Predicates.aiml"
+            "TargetName" = "8:Predicates.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D9FB88F3F91B368EB5CA58BF9442051C"
@@ -3138,6 +4116,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DFA8C8B17BAA4734AD502C0358C96C24"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Reductions.aiml"
+            "TargetName" = "8:Reductions.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E6790395F2C455D8E7712F87A7F1AA59"
             {
             "AssemblyRegister" = "3:1"
@@ -3169,6 +4167,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EB4DBF72C19D4F36B3589410A55BCC64"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Salutations.aiml"
+            "TargetName" = "8:Salutations.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_EF5B41B48879843ACCAD4A9ED7F779BB"
             {
             "AssemblyRegister" = "3:1"
@@ -3198,6 +4216,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F4C8558C8E884221B92392F493F571CA"
+            {
+            "SourcePath" = "8:..\\ChatBot\\aiml\\Knowledge.aiml"
+            "TargetName" = "8:Knowledge.aiml"
+            "Tag" = "8:"
+            "Folder" = "8:_BB00100016244F9A9A2C14E4600DCABC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F89A225A64451ADDF8886775F0D10F2B"
@@ -3322,6 +4360,40 @@
                 {
                 }
             }
+            "{994432C3-9487-495D-8656-3E829A8DBDDE}:_6E5613B3A7B24B10B7F680C71A990708"
+            {
+            "DefaultLocation" = "8:[TARGETDIR]"
+            "Name" = "8:files"
+            "AlwaysCreate" = "11:TRUE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:NEWPROPERTY3"
+                "Folders"
+                {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_2571E63883804420AC233DDDC60A7BFC"
+                    {
+                    "Name" = "8:config"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_2788E73E94904A1A8E5900BBA03441ED"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_BB00100016244F9A9A2C14E4600DCABC"
+                    {
+                    "Name" = "8:aiml"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_4DA3817B7D004C72A3FB38D43740F069"
+                        "Folders"
+                        {
+                        }
+                    }
+                }
+            }
             "{1525181F-901A-416C-8A58-119130FE478E}:_CE51948D61B3420E8B9B3056C9D83114"
             {
             "Name" = "8:#1919"
@@ -3361,7 +4433,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:ChatBotSetup"
         "ProductCode" = "8:{B1935F3A-ED82-4CDF-B635-D60308E303C8}"
-        "PackageCode" = "8:{5128CAFD-B9D8-451B-B690-320F8A6F199D}"
+        "PackageCode" = "8:{26A2816D-E00E-423F-A9FF-AFD31677A2DE}"
         "UpgradeCode" = "8:{184872D1-9A38-4F52-A398-11F978A2BD86}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
